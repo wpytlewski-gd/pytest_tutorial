@@ -1,0 +1,6 @@
+/.DS_Store
+/.coverage
+/.pytest_cache
+/.vscode
+/assets
+/htmlcov
